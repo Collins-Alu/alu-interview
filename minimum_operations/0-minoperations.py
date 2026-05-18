@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 this is the minimum operations problem
 """
